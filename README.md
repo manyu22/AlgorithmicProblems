@@ -1,4 +1,4 @@
 AlgorithmicProblems
 ===================
 
-Some general algorithmic problems.
+Some general purpose algorithmic problems.
